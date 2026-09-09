@@ -1,1 +1,1 @@
-playsound3
+playsound3==3.3.2
